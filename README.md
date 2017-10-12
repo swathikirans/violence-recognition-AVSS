@@ -10,7 +10,7 @@ The pre-trained models can be downloaded from the following links:
 * [Movies dataset](https://drive.google.com/open?id=0Bwd9CvJBXhj4SWNibHBUOGJHLW8)
 * [Violentflows dataset](https://drive.google.com/open?id=0Bwd9CvJBXhj4NHhlQV9ZZVAxNlk)
 
-To evaluate the performance of the model trained on hockey fights dataset,
+To evaluate the performance of the model trained run the following command,
 th main-run.lua -FightsDataset path-to-fights-video-file -noFightsDataset path-to-nonfights-video-file -model path-to-model -nSeq number-of-frames
 
 The dataset should be in the format number_of_videosxnumber_of_framesx3xwidthxheight
