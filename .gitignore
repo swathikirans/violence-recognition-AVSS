@@ -2,3 +2,6 @@
 /models*
 /hockey_dataset
 /movie_dataset
+*.gitignore
+*.gitignore~
+*.lua~
