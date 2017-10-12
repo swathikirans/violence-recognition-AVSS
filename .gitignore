@@ -1,0 +1,4 @@
+*.bin
+/models*
+/hockey_dataset
+/movie_dataset
