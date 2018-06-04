@@ -23,12 +23,15 @@ The dataset should be in the format number_of_videosxnumber_of_framesx3xwidthxhe
 To cite our paper/code:
 
 ```
-@article{sudhakaran2017learning,
-  title={Learning to Detect Violent Videos using Convolutional Long Short-Term Memory},
+@inproceedings{sudhakaran2017learning,
+  title={Learning to detect violent videos using convolutional long short-term memory},
   author={Sudhakaran, Swathikiran and Lanz, Oswald},
-  journal={arXiv preprint arXiv:1709.06531},
-  year={2017}
+  booktitle={Advanced Video and Signal Based Surveillance (AVSS), 2017 14th IEEE International Conference on},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
 }
+
 ```
  
 
