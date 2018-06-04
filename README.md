@@ -1,5 +1,7 @@
 # Learning to Detect Violent Videos using Convolutional Long Short-Term Memory
 
+Pytorch version can be found [here](https://github.com/swathikirans/violence-recognition-pytorch)
+
 The source code associated with the paper [Learning to Detect Violent Videos using Convolutional Long Short-Term Memory](https://arxiv.org/abs/1709.06531), published in AVSS-2017. 
 
 The code for evaluating the performance of the model proposed in the paper is given. The convLSTM model is based on the source provided by the authors of the paper [Spatio-temporal video autoencoder with differentiable memory](https://github.com/viorik/ConvLSTM)
